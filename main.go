@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "anferdev/cmd"
+import "github.com/hmoralesaragithub1/anferdev/cmd"
 
 func main() {
 	cmd.Execute()
