@@ -31,7 +31,7 @@ var cfgFile string
 var rootCmd = &cobra.Command{
 	Use:   "anferdev",
 	Short: "A brief description of your application",
-	Long:  `Comando creado por Anferdev para la automatizacion y control de API's.`,
+	Long:  "Comando creado por Anferdev para la automatizacion y control de API's.",
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	//	Run: func(cmd *cobra.Command, args []string) { },
